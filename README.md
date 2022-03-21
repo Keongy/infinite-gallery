@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# https://keongy.github.io/infinite-gallery/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Alt text](./public/img/infinite_gallery_screen.jpg?raw=true "Infinite Gallery")
 
 ## Available Scripts
 
