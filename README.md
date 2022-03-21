@@ -1,5 +1,5 @@
 # See the project online :
-# `https://keongy.github.io/infinite-gallery/`
+## https://keongy.github.io/infinite-gallery/
 
 ![Alt text](./public/img/infinite_gallery_screen.jpg?raw=true "Infinite Gallery")
 
